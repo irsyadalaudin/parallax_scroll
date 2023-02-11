@@ -21,6 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 10000;
 }
 
 header .logo {
@@ -36,7 +37,6 @@ header ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 170px;
 }
 
 header ul li {
@@ -78,6 +78,10 @@ section img {
 
 section img#moon {
     mix-blend-mode: screen;
+}
+
+section img#mountains_front {
+    z-index: 10;
 }
 
 #text {
