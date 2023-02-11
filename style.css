@@ -23,3 +23,26 @@ header {
     align-items: center;
 }
 
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li {
+    list-style: none;
+    margin-left: 20px
+}
+
+header ul li a {
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #FFFFFF;
+    border-radius: 20px
+}
+
+a:hover, 
+header ul li .active {
+    background: #FFFFFF;
+    color: #2B1055;
+}
