@@ -110,3 +110,14 @@ section img#mountains_front {
     padding: 100px;
     background: #1C0522;
 }
+
+.sec h2 {
+    font-size: 3.5em;
+    margin-bottom: 10px;
+    color: #FFFFFF;
+}
+
+.sec p {
+    font-size: 1em;
+    color: #FFFFFF;
+}
