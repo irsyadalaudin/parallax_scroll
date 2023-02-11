@@ -104,3 +104,9 @@ section img#mountains_front {
     z-index: 9;
     transform: translateY(100px);
 }
+
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #1C0522;
+}
