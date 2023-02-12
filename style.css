@@ -62,7 +62,7 @@ header ul li a.active {
 section {
     position: relative;
     width: 100%;
-    height: 120vh;
+    height: 120vh;      /* YANG INI BEDA SAMA DI TUTORIAL */
     padding: 100px;
     display: flex;
     justify-content: center;
